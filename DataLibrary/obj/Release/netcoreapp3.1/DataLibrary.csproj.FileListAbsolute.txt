@@ -5,3 +5,4 @@ C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\Da
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
