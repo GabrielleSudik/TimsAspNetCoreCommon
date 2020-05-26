@@ -2,3 +2,7 @@ Testing whether I can drag and drop to GitHub.
 From work that is.
 
 Update: Yup.
+
+When you pull it to home, what happens?
+Well, once you straightened out your compy's connection to GitHub,
+a simple "git pull" pulled the stuff you committed from work.
