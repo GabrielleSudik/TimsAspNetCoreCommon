@@ -7,7 +7,7 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TimsDinerDB", "TimsDinerDB\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CE51DF7-4178-4F4D-8E5B-56102688D2DC}"
 	ProjectSection(SolutionItems) = preProject
-		CourseNotes.txt = CourseNotes.txt
+		CourseNotes-DbCreation.txt = CourseNotes-DbCreation.txt
 		NotesAtWork.txt = NotesAtWork.txt
 	EndProjectSection
 EndProject

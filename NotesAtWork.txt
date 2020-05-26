@@ -8,3 +8,8 @@ Well, once you straightened out your compy's connection to GitHub,
 a simple "git pull" pulled the stuff you committed from work.
 
 Typing from home. Is pulling to work equally easy?
+No.
+You wound up deleting and recloning stuff at work.
+
+Also, you haven't tried publishing your TimsDiner DB here.
+You be too scared.

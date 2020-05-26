@@ -1,0 +1,124 @@
+Tim Corey's Which ASP.NET Core
+on Udemy May 2020
+Main Project Notes
+for the DataLibrary / DB Project
+
+-- Database Project Creation--
+
+We started with creating the base/common library,
+the TimsDinerDB. The other 5 projects will use it.
+You started from scratch, and may or may not write 
+all your notes about the DB creation here.
+A handful of notes are in your code in this project,
+stuff that's specific to those files.
+
+"dbo" means database owner.
+
+TimsDinerDB -- is the project that will create the DB.
+It keeps all the code in the solution.
+We COULD do it with SSMS, but this way will kind of
+carry everything along with it.
+(Plus, I'm learning that this is even a thing.)
+
+-- Table Creation --
+
+Right-click the destination folder, Add - Table.
+We'll start with Food.sql. Check it out.
+It has three main parts -- update any one of the three
+and all parts will update.
+The design, the properties and the T-SQL.
+
+"money" type is SQL is "decimal" in C#.
+
+-- Post-Deployment Script --
+
+We need a script that will run after deployment.
+It will populate the tables with data.
+(I guess this is an advantage to the DB project and not SSMS...
+the tables and data travel along without needing extra steps.)
+
+Scripts Folder -- Add -- Script -- Post-Deployment Script.
+(Can be only one per project.)
+Check it out to see it. It's very basic.
+
+-- The Stored Procs --
+
+We made five stored procs about food and orders.
+They are simple.
+
+--COOL TIP!
+--Start with SELECT * FROM dbo.TableName;
+--Then right-click the star, refactor, expand all. YOU GET THE FULL LIST.
+
+--SCOPE_IDENTITY(); is a method in SQL that will get the latest created Id for the table.
+--we marked @Id above as an output, so when it's created, the st proc will send it back.
+
+-- Publishing the DB --
+
+View -- SQL Server Object Explorer
+Check stuff out, you've got some old DBs there.
+
+Solution Explorer Your Project (TimsDiner)-- Right Click -- Publish --
+Edit the source of the DB, it's where you pick which server it will be on
+and you'll see the connection string info. (Pick MSSQLLocalDB for this one.)
+Then name it and "Publish" (or "Save As" for when you get into more advanced stuff.)
+You'll now see it listed under one of the servers in the SSObExplorer.
+
+Check Sol Explorer -- the DB Project -- Open in Windows -- BIN -- Debug --
+TimsDinerDB.publish.sql: This is the script that will create the DB & tables,
+inclucing the post-deploy script.
+Note this is a really safe thing, it won't overwrite existing data.
+(You can manually run the script, though, and affect what you've already done.)
+
+SQL Server Object Explorer is similar to SSMS, but some menu choices are diff.
+Like "View Data" is like "View Top 100 Rows"
+
+-- The Class Library --
+
+Rt click solution -- Add -- Class Library (C#, .Net Core).
+Tim recommends deleting the boilerplate Class1. Because it's stupid.
+Just start fresh, don't rename it, etc.
+
+For this course, we didn't add any substance yet.
+
+-- Add Nuget Packages --
+
+In DataLibrary project, Rt click Dependencies to add them.
+We're getting Dapper, microsoft.data.sqlclient, microsoft.extensions.configuration.
+
+-- Creating the SQL Database --
+
+New folder "DB" in the DataLibrary project.
+New class "SqlDb".
+
+Basically, that's the code that will invoke whatever stored procs
+you pass along to load or save data.
+Check out SqlDb.cs and IDataAccess for your notes.
+
+Check ConnectionStringData.cs for our quick way of getting/naming the connectionString.
+There are other ways to do that, this is a quicky for the class.
+
+-- Creating Data Classes --
+
+New folder "Data" with our data classes inside. Food and Orders.
+New folder "Models" with the models. Food and Orders.
+Check those out for your notes.
+
+-- Exporting the DLL --
+
+The TimsAspNetCoreCommon solution is complete.
+We've to export it so the 5 web projects can use it.
+(Do this part at home only.)
+
+Steps:
+1. Change dropdown at top from Debug to Release.
+2. Build or Rebuild solution.
+3. Rt click DataLibrary project -- Open Folder in F Expl --
+bin folder -- Release -- NetCoreApp3.1 -- there's a .DLL file.
+4. DataLibrary.dll will become a dependency in our other projects.
+*. One step we are NOT doing is going to project's Properties - Package -
+"Generate Nuget package on build" route. But we could. Instead:
+5. When we start each new project, we'll reference that .dll file.
+I guess further instructions will come soon.
+
+-- End of setting up the Data/Common project --

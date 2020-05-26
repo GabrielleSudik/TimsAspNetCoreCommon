@@ -1,0 +1,7 @@
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.deps.json
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.dll
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.pdb
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb

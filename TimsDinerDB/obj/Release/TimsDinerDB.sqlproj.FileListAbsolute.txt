@@ -1,0 +1,9 @@
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dacpac
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dll
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.pdb
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\Model.xml
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\refactor.xml
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\postdeploy.sql
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\predeploy.sql
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
+C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb
