@@ -97,3 +97,8 @@ There are other ways to do that, this is a quicky for the class.
 
 -- Creating Data Classes --
 
+New folder "Data" with our data classes inside. Food and Orders.
+New folder "Models" with the models. Food and Orders.
+Check those out for your notes.
+
+-- Exporting the DLL --
