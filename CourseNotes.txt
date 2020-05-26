@@ -85,3 +85,15 @@ We're getting Dapper, microsoft.data.sqlclient, microsoft.extensions.configurati
 
 -- Creating the SQL Database --
 
+New folder "DB" in the DataLibrary project.
+New class "SqlDb".
+
+Basically, that's the code that will invoke whatever stored procs
+you pass along to load or save data.
+Check out SqlDb.cs and IDataAccess for your notes.
+
+Check ConnectionStringData.cs for our quick way of getting/naming the connectionString.
+There are other ways to do that, this is a quicky for the class.
+
+-- Creating Data Classes --
+
