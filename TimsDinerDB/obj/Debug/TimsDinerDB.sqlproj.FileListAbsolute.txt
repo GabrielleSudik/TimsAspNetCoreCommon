@@ -1,0 +1,10 @@
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dacpac
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.sqlprojAssemblyReference.cache
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Debug\Model.xml
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Debug\refactor.xml
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Debug\postdeploy.sql
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Debug\predeploy.sql
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.dll
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.pdb
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dll
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.pdb

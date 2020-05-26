@@ -20,3 +20,4 @@ BEGIN
     ('Sushi Plate', '8 pieces - Chef choice', 12.95),
     ('Sashimi Plate', 'Salmon, yellowtail, tuna', 15.95);
 END
+GO

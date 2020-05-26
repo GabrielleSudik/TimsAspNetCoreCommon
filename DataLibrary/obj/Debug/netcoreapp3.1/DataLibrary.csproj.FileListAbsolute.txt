@@ -1,0 +1,5 @@
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
