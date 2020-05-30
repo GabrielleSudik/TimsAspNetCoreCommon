@@ -7,3 +7,8 @@ C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\postdeploy.sql
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\predeploy.sql
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dacpac
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dll
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.pdb
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb

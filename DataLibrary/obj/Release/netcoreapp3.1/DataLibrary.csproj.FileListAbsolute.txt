@@ -6,3 +6,10 @@ C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\Da
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb
 C:\Git Non-ANA\Tim\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.deps.json
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.dll
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.pdb
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
+C:\Users\Gabrielle\Source\Repos\TimsAspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb

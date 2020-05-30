@@ -108,7 +108,6 @@ Check those out for your notes.
 
 The TimsAspNetCoreCommon solution is complete.
 We've to export it so the 5 web projects can use it.
-(Do this part at home only.)
 
 Steps:
 1. Change dropdown at top from Debug to Release.
